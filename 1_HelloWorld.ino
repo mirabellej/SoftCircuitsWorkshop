@@ -8,6 +8,8 @@ void setup() {
   CircuitPlayground.begin();
 
   Serial.println("Started up!"); // This will only print once!
+
+  delay(3000); 
 }
 
 
