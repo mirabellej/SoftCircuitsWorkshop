@@ -1,3 +1,4 @@
+// this sketch creates a breathing pattern for white LEDs
 #include <FastLED.h>
 
 // How many leds in your strip?
