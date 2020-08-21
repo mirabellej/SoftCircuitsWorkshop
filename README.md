@@ -12,13 +12,16 @@ Double click each file to open in Arduino!
 I'm getting a "Can't Find Port" error: try pressing the "reset" button on the Circuit Playground twice! 
 
 <h2>Circuit Playground Functions Cheat Sheet</h2>
-
-LEDS
-CircuitPlayground.setPixelColor(0, 0,   0,   0); // (which pixel?, red, green, blue)
-CircuitPlayground.clearPixels(); // turns all neopixels off by clearing the data!
-
-SPEAKER
-CircuitPlayground.playTone(2000, 1000); // (tone in hz, duration)
-
-PRINT STATEMENT
-Serial.println("This statement will print to the serial monitor");
+</br>
+LEDS</br>
+CircuitPlayground.setPixelColor(0, 0,   0,   0); // (which pixel?, red, green, blue)</br>
+CircuitPlayground.clearPixels(); // turns all neopixels off by clearing the data!</br>
+</br>
+SPEAKER</br>
+CircuitPlayground.playTone(2000, 1000); // (tone in hz, duration)</br>
+</br>
+PRINT STATEMENT</br>
+Serial.println("This statement will print to the serial monitor");</br>
+</br>
+POSITION SERVO</br>
+myservo.write(90);</br>
