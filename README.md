@@ -14,7 +14,7 @@ I'm getting a "Can't Find Port" error: try pressing the "reset" button on the Ci
 <h2>Circuit Playground Functions Cheat Sheet</h2>
 </br>
 LEDS</br>
-CircuitPlayground.setPixelColor(0, 0,   0,   0); // (which pixel?, red, green, blue)</br>
+CircuitPlayground.setPixelColor(0, 255,   255,   255); // (which pixel?, red, green, blue)</br>
 CircuitPlayground.clearPixels(); // turns all neopixels off by clearing the data!</br>
 </br>
 SPEAKER</br>
