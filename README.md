@@ -11,7 +11,7 @@ Double click each file to open in Arduino!
 <h2>Troubleshooting</h2>
 I'm getting a "Can't Find Port" error: try pressing the "reset" button on the Circuit Playground twice! 
 
-<h2>Circuit Playground Functions Cheat Sheet</h2>
+<h2>Output Functions Cheat Sheet</h2>
 </br>
 LEDS</br>
 CircuitPlayground.setPixelColor(0, 255,   255,   255); // (which pixel?, red, green, blue)</br>
