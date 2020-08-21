@@ -29,14 +29,14 @@ myservo.write(90);</br>
 <h2>Comparison Operators & Logic</h2>
 AND && </br>
 Example:</br>
-if (capVal > 200 && capVal < 400){ //Serial.print("touched")};</br></br>
+if (capVal > 200 && capVal < 400){ Serial.print("touched")};</br></br>
 OR || </br>
 Example:</br>
-if (capVal > 200 || capVal < 400){ //Serial.print("touched")};</br></br>
+if (capVal > 200 || capVal < 400){ Serial.print("touched")};</br></br>
 NOT ! </br>
 Example:</br>
-if !(capVal < 800){ //Serial.print("touched")};</br></br>
+if !(capVal < 800){ Serial.print("touched")};</br></br>
 EQUALS == </br>
 Example:</br>
-if (capVal == 800){ //Serial.print("touched")};</br></br>
+if (capVal == 800){ Serial.print("touched")};</br></br>
 
